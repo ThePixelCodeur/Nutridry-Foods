@@ -1,2 +1,2 @@
-# Nutridry-Foods
+# Nutridry
 Dehydrated Vegetables and Fruits
